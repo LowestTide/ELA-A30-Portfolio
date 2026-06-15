@@ -126,8 +126,3 @@ footer:hover #pranav{
     font-style: italic;
     text-decoration: underline;
 }
-@media(max-width: 700px){
-    body{
-        background-color :grey;
-    }
-}
